@@ -1,4 +1,4 @@
-h1. Time for Yandex Weather Mini
+# Time for Yandex Weather Mini
 ---
 
 Basically it's small greasemonkey script which adds time and date to http://mini.pogoda.yandex.ru so it looks similar to Chrome [Currently](https://chrome.google.com/webstore/detail/currently/ojhmphdkpgbibohbnpbfiefkgieacjmh) plug-in.
