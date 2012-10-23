@@ -9,7 +9,7 @@
     var 
         // css and html templates
         html = '<p class="time"></p><p class="date"></p>',
-        css  = '.black{overflow: hidden;} .date-time{margin: 100px auto 0; text-align: center;} .time{font-size: 10em;} .date{color: #999999; font-weight: normal;}',
+        css  = 'body{overflow: hidden;} .date-time{margin: 100px auto 0; text-align: center;} .time{font-size: 10em;} .date{color: #999999; font-weight: normal;}',
         // how often time node will be updated
         INTERVAL = 1000;
 
